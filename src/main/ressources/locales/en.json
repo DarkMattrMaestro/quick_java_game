@@ -1,0 +1,18 @@
+{
+  "DeathMSG": [
+    "You have died :(",
+    "",
+    "Want to respawn? Well...",
+    "this game has perma-death, lol.",
+    "",
+    "Try again from scratch, mate. Good luck!"
+  ],
+  "CurrentStats": "Current stats:",
+  "Turn:": "Turn:",
+  "Health:": "Health:",
+  "DoWhat": "What do you wish to do?",
+  "DoWhatPrompts": [
+    "Nothing...",
+    "Take Recoil"
+  ]
+}

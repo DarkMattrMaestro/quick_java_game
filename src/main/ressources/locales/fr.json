@@ -1,0 +1,18 @@
+{
+  "DeathMSG": [
+    "Vous êtes morts :(",
+    "",
+    "Vouliez-vous revivre ? Bein...",
+    "ce jeu implémente la mort permanente, mdr.",
+    "",
+    "Réessayez de nouveaux, mon ami. Bonne chance !"
+  ],
+  "CurrentStats": "Statistiques actuelles :",
+  "Turn:": "Tour :",
+  "Health:": "Vitalité :",
+  "DoWhat": "Que préférez-vous faire ?",
+  "DoWhatPrompts": [
+    "Rien...",
+    "Subir des dégats de recul"
+  ]
+}
